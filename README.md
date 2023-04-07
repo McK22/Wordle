@@ -11,3 +11,5 @@ The word you guess is entered only if it occurs in the dictionary. A sample dict
 You can choose between different difficulties. Harder difficulty will allow you to take more guesses but it requiers more words to be guessed at the same time. For example choosing hard difficulty opens four game windows and each of them has a different hidden word but when you guess a word it is entered in each window. It would be a good idea to look at the keyboard window which also has the letters painted according to their occurance in the games.
 
 After you finish you can click on any difficulty to restart the game.
+
+You can find some screenshot of a gameplay in 'Screenshots.md'
